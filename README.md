@@ -429,33 +429,17 @@ Timeline:
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
 <a href="https://t.me/dev_umar">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" height="50" />
-<br/><br/>
-<b>@dev_umar</b>
+<img src="https://img.shields.io/badge/💬_Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="60" />
 </a>
-</td>
-<td align="center" width="33%">
 <a href="https://wa.me/201550875414">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="50" />
-<br/><br/>
-<b>+20 155 087 5414</b>
+<img src="https://img.shields.io/badge/📱_WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="60" />
 </a>
-</td>
-<td align="center" width="33%">
 <a href="mailto:omarelmhdi@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="50" />
-<br/><br/>
-<b>omarelmhdi@gmail.com</b>
+<img src="https://img.shields.io/badge/📧_Email-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="60" />
 </a>
-</td>
-</tr>
-</table>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Status-Available_For_Projects-success?style=for-the-badge&logo=statuspage&logoColor=white" />
 <img src="https://img.shields.io/badge/Response_Time-Within_24h-blue?style=for-the-badge&logo=clockify&logoColor=white" />
