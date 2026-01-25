@@ -2,11 +2,25 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=UMAR&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=25" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=800&color=667EEA&center=true&vCenter=true&width=1000&height=80&lines=Building+Enterprise-Grade+Web+Solutions+%F0%9F%9A%80;Admin+Dashboards+%26+Control+Systems+Architect+%F0%9F%92%BC;RESTful+API+Development+%26+Integration+Expert+%E2%9A%A1;Database+Architecture+%26+Optimization+Specialist+%F0%9F%97%84%EF%B8%8F;Automation+Tools+%26+Workflow+Solutions+%F0%9F%94%A7;Performance+Optimization+%26+Scalability+Expert+%F0%9F%93%88;Clean+Code+Advocate+%26+Problem+Solver+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=5000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=🚀+Building+Enterprise-Grade+Web+Solutions;💼+Admin+Dashboards+%26+Control+Systems+Expert;⚡+RESTful+API+Development+%26+Integration;🗄️+Database+Architecture+%26+Optimization;🔧+Automation+Tools+%26+Workflow+Solutions;📈+Performance+Optimization+%26+Scalability;💻+Clean+Code+Advocate+%26+Problem+Solver;🎯+Turning+Ideas+Into+Digital+Reality;🌟+Crafting+Solutions+That+Make+a+Difference;⚙️+Full-Stack+Development+Excellence)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### 🌍 Based in Egypt | 💻 Crafting Digital Excellence
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🌍_Location-Egypt-667eea?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💻_Focus-Digital_Excellence-764ba2?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_Mission-Real_World_Solutions-f093fb?style=for-the-badge" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -16,7 +30,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> About Me
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
 <div align="left">
 
