@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=5000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=🚀+Building+Enterprise-Grade+Web+Solutions;💼+Admin+Dashboards+%26+Control+Systems+Expert;⚡+RESTful+API+Development+%26+Integration;🗄️+Database+Architecture+%26+Optimization;🔧+Automation+Tools+%26+Workflow+Solutions;📈+Performance+Optimization+%26+Scalability;💻+Clean+Code+Advocate+%26+Problem+Solver;🎯+Turning+Ideas+Into+Digital+Reality;🌟+Crafting+Solutions+That+Make+a+Difference;⚙️+Full-Stack+Development+Excellence)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
 <br/>
 
