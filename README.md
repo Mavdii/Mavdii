@@ -2,11 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=header&text=UMAR&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 
-**Full-Stack Web Developer**
+<h2>Full-Stack Web Developer</h2>
 
-Building scalable solutions for the modern web
+<h3>Building scalable solutions for the modern web</h3>
 
-[Portfolio](https://devumar.site) • [Telegram](https://t.me/dev_umar) • [Email](mailto:omarelmhdi@gmail.com)
+<br/>
+
+<a href="https://devumar.site">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-667eea?style=for-the-badge&logoColor=white" height="40"/>
+</a>
+<a href="https://t.me/dev_umar">
+<img src="https://img.shields.io/badge/💬_Telegram-Contact_Me-764ba2?style=for-the-badge&logoColor=white" height="40"/>
+</a>
+<a href="mailto:omarelmhdi@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-Send_Mail-f093fb?style=for-the-badge&logoColor=white" height="40"/>
+</a>
+
+<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
@@ -114,29 +126,25 @@ Git • GitHub • VS Code • Postman • Docker
 <td align="center" width="25%">
 <a href="https://devumar.site">
 <img src="https://img.icons8.com/fluency/96/domain.png" width="60"/><br/>
-<b>Portfolio</b><br/>
-<sub>devumar.site</sub>
+<b>Portfolio</b>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://t.me/dev_umar">
 <img src="https://img.icons8.com/color/96/telegram-app.png" width="60"/><br/>
-<b>Telegram</b><br/>
-<sub>@dev_umar</sub>
+<b>Telegram</b>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://wa.me/201550875414">
 <img src="https://img.icons8.com/color/96/whatsapp.png" width="60"/><br/>
-<b>WhatsApp</b><br/>
-<sub>+20 155 087 5414</sub>
+<b>WhatsApp</b>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="mailto:omarelmhdi@gmail.com">
 <img src="https://img.icons8.com/fluency/96/gmail.png" width="60"/><br/>
-<b>Email</b><br/>
-<sub>omarelmhdi@gmail.com</sub>
+<b>Email</b>
 </a>
 </td>
 </tr>
