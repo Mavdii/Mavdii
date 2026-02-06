@@ -108,8 +108,12 @@ Git • GitHub • VS Code • Postman • Docker
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mavdii&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavdii&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mavdii&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavdii&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=6" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mavdii&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=764ba2&sideLabels=667eea&dates=8b949e&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
