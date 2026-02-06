@@ -1,105 +1,231 @@
-<!-- =========================
-     Omar | GitHub Profile
-     Replace: YOUR_USERNAME, links, pinned repos
-========================= -->
+
+````md
+<!--
+██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
+██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
+██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗
+██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝
+██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
+
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=170&section=header&text=OMAR&fontSize=64&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20Dashboards%20%E2%80%A2%20APIs%20%E2%80%A2%20Automation&descAlignY=70&descSize=18&animation=fadeIn" />
+<!-- HERO BANNER (New style) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1220,25:1d4ed8,50:8b5cf6,75:ec4899,100:22c55e&height=220&section=header&text=MAVDII&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Dashboards%20%E2%80%A2%20APIs%20%E2%80%A2%20Automation&descAlignY=70&descSize=18" />
+
+<!-- Avatar + quick identity -->
+<a href="https://github.com/Mavdii">
+  <img src="https://github.com/Mavdii.png?size=160" width="140" style="border-radius: 50%;" />
+</a>
+
+<h1>Omar • Mavdii</h1>
 
 <p>
-  <b>Shipping real products.</b>
-  <span>Clean UI. Solid backend. No drama.</span>
+  <b>Full-Stack Developer</b> obsessed with shipping real products: <b>Admin Panels</b>, <b>Dashboards</b>, <b>APIs</b>, and <b>Automation</b>.
+  <br/>
+.
 </p>
 
+<!-- Typing headline (Arabic + English mix) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=980&lines=%F0%9F%9A%80+Dashboards+%7C+APIs+%7C+Automation;%F0%9F%94%90+Auth%2C+RBAC%2C+Audit+Logs%2C+Rate+Limits;%E2%9A%A1+Performance-first+%7C+Clean+Architecture;%F0%9F%A7%A0+AI-integrations+for+real+workflows;%F0%9F%8E%AF+Turning+ideas+into+production-ready+systems" />
+</a>
+
+<!-- Primary CTAs -->
 <p>
-  <a href="https://t.me/dev_umar"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/YOUR_NUMBER"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="YOUR_PORTFOLIO"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:omarelmhdi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-omarelmhdi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/dev_umar">
+    <img src="https://img.shields.io/badge/Telegram-@dev__umar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201550875414">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <!-- TODO:
+  <!-- <a href="https://https://www.devumar.site/>
+    <img src="https://img.shields.io/badge/Portfolio-View-0B1220?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a> -->
 </p>
 
+<!-- Status chips -->
 <p>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
-  <img alt="Open to Work" src="https://img.shields.io/badge/Status-Open%20to%20Collab-22c55e?style=for-the-badge" />
-  <img alt="Location" src="https://img.shields.io/badge/Location-Egypt-0ea5e9?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Mavdii&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Egypt-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Product%20Systems-ec4899?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## 👋 About Me
-- **Full-Stack Developer** focused on **dashboards, admin systems, and API-driven products**.
-- I build with a **performance-first mindset**: scalable architecture, clean code, measurable speed.
-- Interested in **automation** and **AI-powered workflows** (because repeating tasks is a human hobby).
+## 🧠 Snapshot
+> 
+- 🔥 **Admin Dashboards & Control Panels** (Users, Roles, Permissions, Logs, Analytics)  
+- 🧩 **API Development & Integrations** (Auth, Rate-limit, Webhooks, Payments, 3rd-party)  
+- 🗄️ **Database Architecture** (Modeling, Indexing, Migrations, Backups)  
+- 🤖 **Automation** (Bots, Cron jobs, Pipelines, Background workers)  
+- ⚡ **Performance** (Caching, query tuning, lazy loading, profiling)
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Radar 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,mysql,postgres,redis,docker,nginx,linux,git,github,postman&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,py,mysql,postgres,redis,docker,nginx,linux,git,github,postman&theme=dark&perline=10" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/UI-Responsive%20%26%20Accessible-8b5cf6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APIs-REST%20%7C%20Webhooks%20%7C%20Integrations-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Security-Auth%20%7C%20RBAC%20%7C%20RLS-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Performance-Profiling%20%7C%20Caching%20%7C%20Scaling-ec4899?style=for-the-badge" />
 
 </div>
 
 ---
 
-## ✅ What I Ship
-- **Admin Dashboards & Control Panels** (RBAC, audit logs, analytics)
-- **REST APIs** (auth, rate-limit, docs, integrations)
-- **Database Design & Optimization** (schemas, indexing, migrations)
-- **Automation Tools** (bots, schedulers, background jobs)
+## 🧱 What I Build (Products, not vibes)
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Dashboards / Admin Systems
+- RBAC (Roles & Permissions)
+- Audit Logs & Activity Tracking
+- Analytics & Reporting
+- Data Tables (filters, pagination, export)
+- Feature flags + settings + configuration
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend / APIs
+- Auth (JWT / sessions / OAuth-ready)
+- Rate limiting + quotas
+- Webhooks + queues
+- Payments & subscriptions integration
+- Docs + versioning + monitoring
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+- Schema design & normalization
+- Index strategy
+- Query optimization
+- Migration strategy
+- Backup & recovery mindset
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Automation
+- Bots + schedulers
+- ETL / data processing scripts
+- Notification pipelines
+- Integration glue code
+- “Stop wasting time” systems
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 🏗️ Featured Projects
-> Replace repo names below with your real repos.
+## ⭐ Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=8b5cf6" />
+<a href="https://github.com/Mavdii/REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavdii&repo=REPO_1&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=8b5cf6" />
+</a>
+<a href="https://github.com/Mavdii/REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavdii&repo=REPO_2&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=0ea5e9" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=0ea5e9" />
+<a href="https://github.com/Mavdii/REPO_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavdii&repo=REPO_3&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=22c55e" />
+</a>
+<a href="https://github.com/Mavdii/REPO_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavdii&repo=REPO_4&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=ec4899" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_3&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=ec4899" />
+<a href="https://github.com/Mavdii/REPO_5">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavdii&repo=REPO_5&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=f59e0b" />
 </a>
-
-<a href="https://github.com/YOUR_USERNAME/REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_4&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=22c55e" />
+<a href="https://github.com/Mavdii/REPO_6">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavdii&repo=REPO_6&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=38bdf8" />
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Snapshot
+## 📈 GitHub Analytics 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=8b5cf6" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0b1220&ring=8b5cf6&fire=ec4899&currStreakNum=ffffff&sideNums=cbd5e1&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=94a3b8" />
+<img width="49%" height="190" src="https://github-readme-stats.vercel.app/api?username=Mavdii&show_icons=true&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&icon_color=8b5cf6" />
+<img width="49%" height="190" src="https://streak-stats.demolab.com/?user=Mavdii&hide_border=true&background=0b1220&ring=8b5cf6&fire=ec4899&currStreakNum=ffffff&sideNums=cbd5e1&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=94a3b8" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&margin-w=8&row=1&column=6" />
+<img width="49%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavdii&layout=compact&hide_border=true&bg_color=0b1220&title_color=ffffff&text_color=cbd5e1&langs_count=10" />
+<img width="49%" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mavdii&theme=github_dark" />
 
 </div>
 
 ---
 
-## 🤝 Let’s Work
-- Building a product? Need a **dashboard**, **API**, or **automation**?
-- I care about **clarity**, **speed**, and **shipping**.
-
+## 🧩 Activity Graph
 <div align="center">
 
-<a href="https://t.me/dev_umar"><img src="https://img.shields.io/badge/Telegram-@dev__umar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-YOUR__EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mavdii&bg_color=0b1220&color=cbd5e1&line=8b5cf6&point=ec4899&area=true&hide_border=true" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=90&section=footer" />
+---
+
+## 🛡️ My Work Standards (مش كلام تسويق)
+```yaml
+Quality:
+  Clean Architecture: true
+  Maintainability: high
+  Testing: as-needed (critical paths first)
+  Security: auth, least-privilege, validation
+Performance:
+  Lighthouse mindset: true
+  DB indexing: intentional
+  Caching: practical
+Delivery:
+  Communication: clear
+  Updates: regular
+  Deadlines: respected
+````
+
+---
+
+## 🤝 Let’s Connect
+
+<div align="center">
+
+<a href="mailto:omarelmhdi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-omarelmhdi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://t.me/dev_umar">
+  <img src="https://img.shields.io/badge/Telegram-@dev__umar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://wa.me/201550875414">
+  <img src="https://img.shields.io/badge/WhatsApp-201550875414-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:22c55e,25:ec4899,50:8b5cf6,75:1d4ed8,100:0b1220&height=110&section=footer&text=Ship%20Clean.%20Ship%20Fast.%20Ship%20Right.&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+
+</div>
