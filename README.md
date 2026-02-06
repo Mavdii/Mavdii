@@ -104,19 +104,6 @@ Git • GitHub • VS Code • Postman • Docker
 **4. Testing** → Comprehensive quality assurance and security audit  
 **5. Deployment** → Production launch with complete documentation
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mavdii&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavdii&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=6" alt="Top Languages" />
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mavdii&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=764ba2&sideLabels=667eea&dates=8b949e&border_radius=10" alt="GitHub Streak" />
-
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Contact
 
 <div align="center">
