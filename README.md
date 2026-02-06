@@ -16,13 +16,24 @@ Building scalable solutions for the modern web
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Full-stack developer based in Egypt, specializing in building admin dashboards, control systems, and automation tools. I focus on writing clean, maintainable code that solves real-world problems.
-
-**Core Expertise:**
-- Admin Dashboards & Control Panels
-- RESTful API Development
-- Database Architecture & Optimization
-- Workflow Automation Systems
+```typescript
+const developer = {
+    name: "Umar",
+    location: "Egypt 🇪🇬",
+    role: "Full-Stack Web Developer",
+    
+    specialization: [
+        "Admin Dashboards & Control Panels",
+        "RESTful API Development",
+        "Database Architecture & Optimization",
+        "Workflow Automation Systems"
+    ],
+    
+    focus: "Building scalable solutions",
+    approach: "Clean, maintainable code",
+    goal: "Solving real-world problems"
+};
+```
 
 <br clear="both"/>
 
@@ -92,12 +103,46 @@ Git • GitHub • VS Code • Postman • Docker
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Contact
 
+<div align="center">
+
 **Available for freelance projects and collaborations**
 
-- **Portfolio:** [devumar.site](https://devumar.site)
-- **Telegram:** [@dev_umar](https://t.me/dev_umar)
-- **WhatsApp:** [+20 155 087 5414](https://wa.me/201550875414)
-- **Email:** [omarelmhdi@gmail.com](mailto:omarelmhdi@gmail.com)
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://devumar.site">
+<img src="https://img.icons8.com/fluency/96/domain.png" width="60"/><br/>
+<b>Portfolio</b><br/>
+<sub>devumar.site</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://t.me/dev_umar">
+<img src="https://img.icons8.com/color/96/telegram-app.png" width="60"/><br/>
+<b>Telegram</b><br/>
+<sub>@dev_umar</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://wa.me/201550875414">
+<img src="https://img.icons8.com/color/96/whatsapp.png" width="60"/><br/>
+<b>WhatsApp</b><br/>
+<sub>+20 155 087 5414</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:omarelmhdi@gmail.com">
+<img src="https://img.icons8.com/fluency/96/gmail.png" width="60"/><br/>
+<b>Email</b><br/>
+<sub>omarelmhdi@gmail.com</sub>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
